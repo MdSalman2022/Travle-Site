@@ -1,0 +1,14 @@
+/* .mySwiper img {
+      width: 30%;
+      height: 30%;
+    } */
+.new-font{
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+.swiper-slide-active{
+    border: 3px solid #F9A51A;
+    border-radius: 27px ;
+    
+}
